@@ -11,7 +11,7 @@ access_secret_key<- "ACCESS_SECRET_KEY"
 #authenticate via web browser
 
 token<-create_token(
-  app = "S_Practice3",
+  app = "App_Name",
   consumer_key = api_key,
   consumer_secret = api_secret_key,
   access_token = access_token,
